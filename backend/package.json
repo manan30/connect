@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "0.0.1",
+  "description": "Node backend for Connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "MongoDB",
+    "backend"
+  ],
+  "author": "Manan Joshi <mananjoshi1995@gmail.com>",
+  "license": "ISC"
+}
